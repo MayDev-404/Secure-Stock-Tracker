@@ -1,0 +1,1 @@
+A full-stack application for securely tracking stock prices in real-time. It consists of a Python FastAPI backend and a React (Vite) frontend. The application emphasizes security by utilizing HTTPS, WSS (Secure WebSockets), and JWT-based authentication.
